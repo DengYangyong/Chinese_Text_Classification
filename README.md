@@ -24,12 +24,12 @@
     
 ## CNN模型
 
-第一个文件夹为CNN模型的数据和代码。
+第二个文件夹为CNN模型的数据和代码。
 
 模块分为四个：数据处理模块（cnews_loader.py）,模型构建模块（cnn_model.py）,模型运行模块（run_cnn.py）,模型预测模块（predict.py）
 
 ## RNN模型
 
-第二个文件夹为RNN模块的数据和代码。
+第一个文件夹为RNN模块的数据和代码。
 
 模块分为四个：数据处理模块（cnews_loader.py）,模型构建模块（rnn_model.py）,模型运行模块（run_rnn.py）,模型预测模块（predict.py）
